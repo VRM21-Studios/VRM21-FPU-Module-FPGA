@@ -3,7 +3,6 @@
 
 /* ============================================================================
  * MODULE: vrm_fpu_sigmoid_64
- * ============================================================================
  * DESCRIPTION:
  *   Double-precision floating-point sigmoid function unit for RV32D/RV64D
  *   floating-point datapaths.
