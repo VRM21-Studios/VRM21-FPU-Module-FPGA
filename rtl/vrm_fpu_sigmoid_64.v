@@ -28,14 +28,12 @@
  *   The unit is fully pipelined through the underlying arithmetic modules.
  *   Each stage propagates its valid signal to the next stage.
  *
- * ============================================================================
  * INTERFACE:
  *   valid_in    : Input transaction valid.
  *   op_a        : IEEE-754 double-precision input operand.
  *   result_out  : IEEE-754 double-precision sigmoid result.
  *   valid_out   : Output result valid.
  *
- * ============================================================================
  * LATENCY:
  *   Variable total latency determined by the instantiated FPU arithmetic
  *   units (ADD/SUB, EXP, ADD, and DIV).
