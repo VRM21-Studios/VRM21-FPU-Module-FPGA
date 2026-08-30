@@ -628,7 +628,8 @@ Future development may focus on improving numerical accuracy, expanding IEEE 754
 
 ## License
 
-See the repository license file for the applicable licensing terms.
+Licensed under the MIT License.
+Provided as-is, without warranty.
 
 ---
 
