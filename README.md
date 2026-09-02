@@ -10,6 +10,14 @@ The design has been verified through both **RTL simulation** and **FPGA hardware
 
 ---
 
+## Motivation
+
+This project was developed as part of a broader self-directed study of computer architecture and processor datapath design.
+
+Floating-point computation introduces challenges that are not present in conventional integer arithmetic, including numerical representation, normalization, rounding, special values, and complex arithmetic pipelines. The project provides a practical environment for exploring how these concepts are implemented in hardware and how a floating-point execution unit can be integrated into a processor-oriented architecture.
+
+---
+
 ## Features
 
 * 64-bit IEEE 754 double-precision datapath
